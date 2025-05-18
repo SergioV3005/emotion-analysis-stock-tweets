@@ -2,6 +2,8 @@
 
 This repository contains the code to perform multi-class emotion classification and topic modeling on stock-related tweets using various NLP techniques.
 
+[Link to the StockEmotion Dataset](https://github.com/adlnlp/StockEmotions).
+
 ![image](https://github.com/user-attachments/assets/b3a60d77-30d4-46c3-9707-5055b0a27960)
 
 ## Project Summary
